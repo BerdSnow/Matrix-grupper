@@ -44,6 +44,6 @@ A real-time collaborative web application designed for interactive classroom gro
    ```bash
    npm run dev
 4. **Open the application:**
-Instructor board: http://localhost:3000
-Test student join: Open private/incognito tabs at http://localhost:3000
+Instructor board: http://localhost:3000  
+Test student join: Open private/incognito tabs at http://localhost:3000  
 If using github codespace make sure to set port to public

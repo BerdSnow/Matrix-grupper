@@ -37,3 +37,11 @@ A real-time collaborative web application designed for interactive classroom gro
    ```bash
    git clone [https://github.com/YOUR_USERNAME/matrix-grouping-app.git](https://github.com/YOUR_USERNAME/matrix-grouping-app.git)
    cd matrix-grouping-app
+2. **Install dependencies:**
+   npm install
+3. **Start the development server:**
+   npm run dev
+4. **Open the application:**
+Instructor board: http://localhost:3000
+Test student join: Open private/incognito tabs at http://localhost:3000
+If using github codespace make sure to set port to public
